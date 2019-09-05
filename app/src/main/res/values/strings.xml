@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Recipes</string>
+    <string name="categories">Categories</string>
+    <string name="description">This app shows you food categories and various recipes!\n\nLogin now and start cooking!</string>
+</resources>
